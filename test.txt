@@ -1,0 +1,1529 @@
+.
+├── Career
+│   ├── Career
+│   │   ├── Active Directory 3aa759b9275180be99a3d31d987f3e07.md
+│   │   ├── Android VAPT
+│   │   │   ├── Android Architecture
+│   │   │   │   └── image.png
+│   │   │   ├── Android Architecture bba759b9275183a6aa79813b9e5607fa.md
+│   │   │   ├── Android Pentesting Notes 14e759b9275183709f36014a034e6223.md
+│   │   │   ├── CheckList 3e4759b92751803fa511e6029d9c44ae.md
+│   │   │   ├── Intro 6e3759b927518277b9e701549df8d4a2.md
+│   │   │   ├── Mobile OWASP Top 10
+│   │   │   │   └── image.png
+│   │   │   └── Mobile OWASP Top 10 cc8759b9275183cb82da8143a383541c.md
+│   │   ├── Android VAPT c0f759b9275183cb84020192164951a1.md
+│   │   ├── Bandit 385759b9275180fdbaa8c1e56e6146f4.md
+│   │   ├── Bug Thive Labs
+│   │   │   ├── BlackTop
+│   │   │   │   ├── Screenshot_2026-06-28_at_17-57-54.png
+│   │   │   │   └── Screenshot_2026-06-28_at_17-58-30.png
+│   │   │   └── BlackTop 38d759b92751801b9019d67af9dda1b1.md
+│   │   ├── Bug Thive Labs 38d759b9275180b1b45fdd26c42e2c53.md
+│   │   ├── CPENT Exam
+│   │   │   ├── AD Range - 270 Points
+│   │   │   │   ├── Screenshot_2026-09-03_at_19-19-06.png
+│   │   │   │   ├── Screenshot_2026-09-03_at_19-23-26.png
+│   │   │   │   ├── Screenshot_2026-09-03_at_19-35-18.png
+│   │   │   │   ├── Screenshot_2026-09-03_at_19-39-20.png
+│   │   │   │   ├── Screenshot_2026-09-03_at_19-41-39.png
+│   │   │   │   ├── Screenshot_2026-09-03_at_19-49-32.png
+│   │   │   │   ├── Screenshot_2026-09-03_at_19-50-37.png
+│   │   │   │   ├── Screenshot_2026-09-03_at_19-55-05.png
+│   │   │   │   ├── Screenshot_2026-09-03_at_19-59-35.png
+│   │   │   │   ├── Screenshot_2026-09-03_at_20-01-41.png
+│   │   │   │   ├── Screenshot_2026-09-03_at_20-02-08.png
+│   │   │   │   ├── Screenshot_2026-09-03_at_20-03-12.png
+│   │   │   │   ├── Screenshot_2026-09-03_at_20-04-28.png
+│   │   │   │   ├── Screenshot_2026-09-03_at_20-09-41.png
+│   │   │   │   ├── Screenshot_2026-09-03_at_20-13-22.png
+│   │   │   │   ├── Screenshot_2026-09-03_at_20-18-19.png
+│   │   │   │   ├── Screenshot_2026-09-03_at_21-00-49.png
+│   │   │   │   ├── Screenshot_2026-09-03_at_21-02-14.png
+│   │   │   │   ├── Screenshot_2026-09-03_at_21-02-41.png
+│   │   │   │   └── Screenshot_2026-09-04_at_00-48-02.png
+│   │   │   ├── AD Range - 270 Points 8d4759b927518306b80b0121fe93ff48.md
+│   │   │   ├── Binary Range (Completed - 500 pts)
+│   │   │   │   ├── Screenshot_2026-09-03_at_00-54-55.png
+│   │   │   │   ├── Screenshot_2026-09-03_at_00-56-55.png
+│   │   │   │   ├── Screenshot_2026-09-03_at_00-59-15.png
+│   │   │   │   ├── Screenshot_2026-09-03_at_01-02-27.png
+│   │   │   │   ├── Screenshot_2026-09-03_at_01-07-02.png
+│   │   │   │   ├── Screenshot_2026-09-03_at_01-09-01.png
+│   │   │   │   ├── Screenshot_2026-09-03_at_01-15-41.png
+│   │   │   │   ├── Screenshot_2026-09-03_at_01-19-07 1.png
+│   │   │   │   ├── Screenshot_2026-09-03_at_01-19-07.png
+│   │   │   │   ├── Screenshot_2026-09-03_at_01-23-35.png
+│   │   │   │   ├── Screenshot_2026-09-03_at_01-24-32.png
+│   │   │   │   ├── Screenshot_2026-09-03_at_15-16-51.png
+│   │   │   │   ├── Screenshot_2026-09-03_at_15-23-06.png
+│   │   │   │   ├── Screenshot_2026-09-03_at_16-26-01.png
+│   │   │   │   ├── Screenshot_2026-09-03_at_16-30-26.png
+│   │   │   │   ├── Screenshot_2026-09-03_at_16-31-15.png
+│   │   │   │   ├── Screenshot_2026-09-03_at_16-34-54.png
+│   │   │   │   ├── Screenshot_2026-09-03_at_16-37-29.png
+│   │   │   │   ├── Screenshot_2026-09-03_at_16-42-41.png
+│   │   │   │   ├── Screenshot_2026-09-03_at_16-44-18.png
+│   │   │   │   ├── Screenshot_2026-09-03_at_16-56-25.png
+│   │   │   │   ├── Screenshot_2026-09-03_at_16-57-39.png
+│   │   │   │   ├── Screenshot_2026-09-03_at_17-05-42.png
+│   │   │   │   └── Screenshot_2026-09-03_at_17-09-55.png
+│   │   │   ├── Binary Range (Completed - 500 pts) 9c7759b9275182199c1881b8ee2afa80.md
+│   │   │   ├── CTF Range (Completed - 500 pts)
+│   │   │   │   ├── image 1.png
+│   │   │   │   ├── image.png
+│   │   │   │   ├── Screenshot_2026-08-22_at_21-44-17.png
+│   │   │   │   ├── Screenshot_2026-08-22_at_21-45-13.png
+│   │   │   │   ├── Screenshot_2026-08-22_at_21-45-42.png
+│   │   │   │   ├── Screenshot_2026-08-22_at_21-46-45.png
+│   │   │   │   ├── Screenshot_2026-08-22_at_21-48-17.png
+│   │   │   │   ├── Screenshot_2026-08-22_at_22-07-59.png
+│   │   │   │   ├── Screenshot_2026-08-22_at_22-08-39.png
+│   │   │   │   ├── Screenshot_2026-08-22_at_22-09-45.png
+│   │   │   │   ├── Screenshot_2026-08-22_at_22-10-21.png
+│   │   │   │   ├── Screenshot_2026-08-22_at_22-11-04.png
+│   │   │   │   ├── Screenshot_2026-08-22_at_22-16-32.png
+│   │   │   │   ├── Screenshot_2026-08-22_at_22-18-51.png
+│   │   │   │   ├── Screenshot_2026-08-22_at_22-20-32.png
+│   │   │   │   ├── Screenshot_2026-08-22_at_22-27-19.png
+│   │   │   │   ├── Screenshot_2026-08-22_at_22-27-46.png
+│   │   │   │   ├── Screenshot_2026-08-22_at_22-33-39.png
+│   │   │   │   ├── Screenshot_2026-08-22_at_22-37-44.png
+│   │   │   │   ├── Screenshot_2026-08-22_at_22-51-39.png
+│   │   │   │   ├── Screenshot_2026-08-22_at_22-52-30.png
+│   │   │   │   ├── Screenshot_2026-08-22_at_22-52-52.png
+│   │   │   │   ├── Screenshot_2026-08-22_at_22-53-28.png
+│   │   │   │   ├── Screenshot_2026-08-22_at_23-02-58.png
+│   │   │   │   ├── Screenshot_2026-08-22_at_23-03-35.png
+│   │   │   │   ├── Screenshot_2026-08-22_at_23-09-10.png
+│   │   │   │   ├── Screenshot_2026-08-22_at_23-10-01.png
+│   │   │   │   ├── Screenshot_2026-08-22_at_23-11-34.png
+│   │   │   │   ├── Screenshot_2026-08-22_at_23-27-23.png
+│   │   │   │   ├── Screenshot_2026-08-22_at_23-49-50.png
+│   │   │   │   ├── Screenshot_2026-08-22_at_23-55-36.png
+│   │   │   │   ├── Screenshot_2026-08-22_at_23-57-19.png
+│   │   │   │   ├── Screenshot_2026-08-23_at_00-01-26.png
+│   │   │   │   ├── Screenshot_2026-09-03_at_17-44-00_(2).png
+│   │   │   │   └── Screenshot_2026-09-03_at_17-48-02.png
+│   │   │   ├── CTF Range (Completed - 500 pts) 259759b92751833281bc018800c03d9e.md
+│   │   │   ├── IOT Range (Completed - 500 Pts)
+│   │   │   │   ├── image 1.png
+│   │   │   │   ├── image 2.png
+│   │   │   │   ├── image.png
+│   │   │   │   ├── Screenshot_2026-08-23_at_00-09-59.png
+│   │   │   │   ├── Screenshot_2026-08-23_at_00-14-51.png
+│   │   │   │   ├── Screenshot_2026-08-23_at_00-22-32.png
+│   │   │   │   ├── Screenshot_2026-08-23_at_00-24-55.png
+│   │   │   │   ├── Screenshot_2026-08-23_at_00-27-29.png
+│   │   │   │   ├── Screenshot_2026-08-23_at_00-33-52.png
+│   │   │   │   ├── Screenshot_2026-08-23_at_00-34-28.png
+│   │   │   │   ├── Screenshot_2026-08-23_at_00-36-32.png
+│   │   │   │   ├── Screenshot_2026-08-23_at_00-40-14.png
+│   │   │   │   ├── Screenshot_2026-08-23_at_00-40-49.png
+│   │   │   │   ├── Screenshot_2026-08-23_at_00-43-04.png
+│   │   │   │   ├── Screenshot_2026-08-23_at_00-47-21.png
+│   │   │   │   ├── Screenshot_2026-08-23_at_00-50-12.png
+│   │   │   │   ├── Screenshot_2026-08-23_at_00-52-42.png
+│   │   │   │   ├── Screenshot_2026-08-23_at_00-53-14.png
+│   │   │   │   ├── Screenshot_2026-08-23_at_01-13-28.png
+│   │   │   │   └── Screenshot_2026-08-23_at_01-14-52.png
+│   │   │   ├── IOT Range (Completed - 500 Pts) 052759b927518381a4ae010da990200a.md
+│   │   │   ├── Web Range - (Completed - 500 Points)
+│   │   │   │   ├── Screenshot_2026-09-03_at_15-39-45.png
+│   │   │   │   ├── Screenshot_2026-09-03_at_15-41-45.png
+│   │   │   │   ├── Screenshot_2026-09-03_at_15-45-56.png
+│   │   │   │   ├── Screenshot_2026-09-03_at_15-50-25.png
+│   │   │   │   ├── Screenshot_2026-09-03_at_15-52-02.png
+│   │   │   │   ├── Screenshot_2026-09-03_at_15-58-12.png
+│   │   │   │   ├── Screenshot_2026-09-03_at_16-08-59.png
+│   │   │   │   ├── Screenshot_2026-09-03_at_16-09-50.png
+│   │   │   │   ├── Screenshot_2026-09-03_at_16-10-35.png
+│   │   │   │   ├── Screenshot_2026-09-03_at_16-16-11.png
+│   │   │   │   ├── Screenshot_2026-09-03_at_16-17-22.png
+│   │   │   │   ├── Screenshot_2026-09-03_at_16-18-31.png
+│   │   │   │   ├── Screenshot_2026-09-03_at_16-19-01.png
+│   │   │   │   ├── Screenshot_2026-09-03_at_16-19-30.png
+│   │   │   │   ├── Screenshot_2026-09-03_at_23-04-22.png
+│   │   │   │   ├── Screenshot_2026-09-03_at_23-06-14.png
+│   │   │   │   ├── Screenshot_2026-09-03_at_23-08-29.png
+│   │   │   │   ├── Screenshot_2026-09-03_at_23-09-39.png
+│   │   │   │   ├── Screenshot_2026-09-03_at_23-11-05.png
+│   │   │   │   ├── Screenshot_2026-09-03_at_23-11-27.png
+│   │   │   │   ├── Screenshot_2026-09-03_at_23-17-23.png
+│   │   │   │   ├── Screenshot_2026-09-03_at_23-41-45.png
+│   │   │   │   ├── Screenshot_2026-09-03_at_23-44-54.png
+│   │   │   │   ├── Screenshot_2026-09-03_at_23-46-13.png
+│   │   │   │   ├── Screenshot_2026-09-03_at_23-48-20.png
+│   │   │   │   ├── Screenshot_2026-09-04_at_00-00-39.png
+│   │   │   │   ├── Screenshot_2026-09-04_at_00-02-57.png
+│   │   │   │   ├── Screenshot_2026-09-04_at_00-04-27.png
+│   │   │   │   ├── Screenshot_2026-09-04_at_00-05-07.png
+│   │   │   │   ├── Screenshot_2026-09-04_at_00-15-21.png
+│   │   │   │   ├── Screenshot_2026-09-04_at_00-17-14.png
+│   │   │   │   ├── Screenshot_2026-09-04_at_00-19-01.png
+│   │   │   │   ├── Screenshot_2026-09-04_at_00-20-48.png
+│   │   │   │   ├── Screenshot_2026-09-04_at_00-21-17.png
+│   │   │   │   ├── Web APP 1
+│   │   │   │   │   └── Screenshot_2026-08-22_at_20-02-08.png
+│   │   │   │   ├── Web APP 1 258759b9275182fe997681731684d17b.md
+│   │   │   │   ├── Web App 2
+│   │   │   │   │   └── Screenshot_2026-08-22_at_20-57-07.png
+│   │   │   │   └── Web App 2 df5759b92751820b9bb3811d5636744d.md
+│   │   │   └── Web Range - (Completed - 500 Points) cee759b92751833a961e815faf184a80.md
+│   │   ├── CPENT Exam 0b1759b92751837985b001ad6483aec2.md
+│   │   ├── CPTS HackTheBox
+│   │   │   ├── Active Directory Enumeration & Attacks
+│   │   │   │   ├── External Recon and Enumeration Principles 3e9759b9275180dda2ddca28b4b41ae5.md
+│   │   │   │   ├── Initial Domain Enumeration 3e9759b92751805d928cedf81f39330b.md
+│   │   │   │   ├── LLMNR NBT-NS Poisoning - from Linux 3e9759b9275180b9a128dadcd3d4ede2.md
+│   │   │   │   ├── Scenario 3e9759b92751801e85cee531631c952a.md
+│   │   │   │   └── Tools of the Trade 3e9759b9275180ad88bcca5306e12066.md
+│   │   │   ├── Active Directory Enumeration & Attacks 3e9759b927518034aad0c28bb9ab232d.md
+│   │   │   ├── File Transfers
+│   │   │   │   ├── Catching Files over HTTP S 382759b927518029bff9e3a0f8ef1e37.md
+│   │   │   │   ├── Linux Files Transfer 382759b92751805aa30bce4143fcebfd.md
+│   │   │   │   ├── Living of the Land 383759b927518055b8a5d92bc33907d1.md
+│   │   │   │   ├── Miscellaneous File Transfer Methods 382759b927518094ae34fefcff670ee4.md
+│   │   │   │   ├── Protected File Transfers 382759b927518018a260e97a7f8aa377.md
+│   │   │   │   ├── Transferring Files with Code 382759b9275180079c2bd783fbfde7b4.md
+│   │   │   │   ├── Windows File Transfer Methods
+│   │   │   │   │   └── image.png
+│   │   │   │   └── Windows File Transfer Methods 382759b9275180e5af9ade02b806a99e.md
+│   │   │   ├── File Transfers 382759b9275180a9871bf1258fc811dc.md
+│   │   │   ├── Foot Printing 37c759b92751806e8042d179b956fe2c.md
+│   │   │   ├── Network Enumeration with Nmap 378759b927518075aa66c9e4495ca2e2.md
+│   │   │   ├── Penetration Testing Process 3b5759b9275180b898cac79806f94909.md
+│   │   │   ├── Shells and Payloads
+│   │   │   │   ├── Anatomy of a Shell 385759b92751802ba1a2dee368646195.md
+│   │   │   │   ├── Antak Web Shell
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Antak Web Shell 39e759b9275180f4bcf8f3b3a9b63a31.md
+│   │   │   │   ├── Bind Shells 385759b9275180a78b0cebc258f14b88.md
+│   │   │   │   ├── Infiltrating Unix Linux 390759b9275180709c66c65727b5b07a.md
+│   │   │   │   ├── Infiltrating Windows 390759b927518067997fe498f28f26fa.md
+│   │   │   │   ├── Introduction to Payloads 385759b92751801d9ec8c3e7dfa09dd5.md
+│   │   │   │   ├── Laudanum Web Shells
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Laudanum Web Shells 390759b92751808cb254cdb888bf0c80.md
+│   │   │   │   ├── Metasploit - Automating Payloads & Delivery 390759b9275180fa87a8f5814c48bcf8.md
+│   │   │   │   ├── MSFvenom - Crafting Payloads 390759b9275180469628de2147a89197.md
+│   │   │   │   ├── PHP Web Shells
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── PHP Web Shells 39e759b9275180ec9ffcff8892633072.md
+│   │   │   │   ├── Reverse Shells 385759b92751800d9069ce9a08304b58.md
+│   │   │   │   ├── Shells & Payloads - Intro 385759b927518078bbc0f70696f0ee17.md
+│   │   │   │   └── Spawning Interactive Shells 390759b9275180e9b3cce453883d5a3f.md
+│   │   │   └── Shells and Payloads 385759b92751800d92beca0a82217ac7.md
+│   │   ├── CPTS HackTheBox 378759b92751806ebf1bc27a4c0c8de4.md
+│   │   ├── Hack The Box Labs
+│   │   │   ├── Conversor
+│   │   │   │   └── image.png
+│   │   │   ├── Conversor a2d759b9275183558747816931d170e2.md
+│   │   │   ├── Hack The Box
+│   │   │   │   ├── Cap
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   ├── image 4.png
+│   │   │   │   │   ├── image 5.png
+│   │   │   │   │   ├── image 6.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Cap 83e759b9275182b8b20981c2784d03ac.md
+│   │   │   │   ├── CCTV
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── CCTV ac4759b927518242b3d98171243083c0.md
+│   │   │   │   ├── Cohort
+│   │   │   │   │   ├── Screenshot_2026-08-08_at_19-06-32.png
+│   │   │   │   │   ├── Screenshot_2026-08-08_at_19-08-40.png
+│   │   │   │   │   ├── Screenshot_2026-08-08_at_19-09-24.png
+│   │   │   │   │   ├── Screenshot_2026-08-08_at_19-12-28.png
+│   │   │   │   │   └── Screenshot_2026-08-08_at_19-13-55.png
+│   │   │   │   ├── Cohort 3b6759b9275180d0b980d1c4e9dd99b3.md
+│   │   │   │   ├── Connected
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Connected 379759b9275180a296a6d049e4ede724.md
+│   │   │   │   ├── DevHub
+│   │   │   │   │   ├── Screenshot_2026-06-14_at_13-59-41.png
+│   │   │   │   │   └── Screenshot_2026-06-14_at_14-00-12.png
+│   │   │   │   ├── DevHub 37f759b9275180d282f2f523a7f876bc.md
+│   │   │   │   ├── Enigma
+│   │   │   │   │   ├── Screenshot_2026-06-28_at_16-57-21.png
+│   │   │   │   │   ├── Screenshot_2026-06-28_at_17-10-49.png
+│   │   │   │   │   └── Screenshot_2026-06-28_at_17-12-36.png
+│   │   │   │   ├── Enigma 38d759b9275180f085e5e1e42720b605.md
+│   │   │   │   ├── Facts
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Facts 287759b9275182b38358812b3f0b2da3.md
+│   │   │   │   ├── Interceptor
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Interceptor 183759b9275182f699820103a209e4c5.md
+│   │   │   │   ├── Kobold
+│   │   │   │   │   └── SCR-20260328-uqji-2.jpeg
+│   │   │   │   ├── Kobold f15759b92751837ea9210155eb0c7cae.md
+│   │   │   │   ├── Paperwork
+│   │   │   │   │   ├── Post-Shell Enumeration & JetDirect Privesc 39b759b92751818ca0b2f1d9f50d6fad.md
+│   │   │   │   │   └── Screenshot_2026-07-12_at_18-15-54.png
+│   │   │   │   ├── Paperwork 39b759b9275180e9a95bd4f863002cc9.md
+│   │   │   │   ├── Reactor
+│   │   │   │   │   ├── Screenshot_2026-06-13_at_17-44-38.png
+│   │   │   │   │   ├── Screenshot_2026-06-13_at_17-47-46.png
+│   │   │   │   │   └── Screenshot_2026-06-13_at_17-58-10.png
+│   │   │   │   ├── Reactor 874759b92751837898608139f1edd050.md
+│   │   │   │   ├── SmartHire 376759b9275182b8af63817a0a23a501.md
+│   │   │   │   ├── Two Million
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   ├── image 4.png
+│   │   │   │   │   ├── image 5.png
+│   │   │   │   │   ├── image 6.png
+│   │   │   │   │   ├── image 7.png
+│   │   │   │   │   ├── image 8.png
+│   │   │   │   │   ├── image 9.png
+│   │   │   │   │   ├── image.png
+│   │   │   │   │   ├── Screenshot_2026-06-07_at_20-51-02.png
+│   │   │   │   │   ├── Screenshot_2026-06-07_at_20-52-40.png
+│   │   │   │   │   ├── Screenshot_2026-06-07_at_21-01-35.png
+│   │   │   │   │   ├── Screenshot_2026-06-07_at_21-02-27.png
+│   │   │   │   │   ├── Screenshot_2026-06-07_at_21-03-53.png
+│   │   │   │   │   ├── Screenshot_2026-06-07_at_21-04-50.png
+│   │   │   │   │   ├── Screenshot_2026-06-07_at_21-07-15.png
+│   │   │   │   │   ├── Screenshot_2026-06-07_at_21-07-58.png
+│   │   │   │   │   ├── Screenshot_2026-06-07_at_21-08-55.png
+│   │   │   │   │   └── Screenshot_2026-06-07_at_21-09-25.png
+│   │   │   │   ├── Two Million c6d759b9275182ae9190817ae668d26c.md
+│   │   │   │   ├── WingData
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   └── image.png
+│   │   │   │   └── WingData a96759b9275183da80f8012b8f03813f.md
+│   │   │   ├── Hack The Box 7c4759b92751831d9c1d8142a53e0252_all.csv
+│   │   │   └── Hack The Box 7c4759b92751831d9c1d8142a53e0252.csv
+│   │   ├── Hack The Box Labs a35759b927518352978701c6ddf378bf.md
+│   │   ├── HTB Modules
+│   │   │   ├── Introduction to Active Directory
+│   │   │   │   ├── Active Directory Functionality
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Active Directory Functionality 3ec759b9275180958fb9c7be07d6ca6f.md
+│   │   │   │   ├── Active Directory Objects 3ec759b9275180fc9447c39de1bd3387.md
+│   │   │   │   ├── Active Directory Research Over the Years 3ea759b927518004a2cfd88f34535624.md
+│   │   │   │   ├── Active Directory Structure 3ea759b9275180f7b966cd116c5addac.md
+│   │   │   │   ├── Active Directory Terminologies
+│   │   │   │   │   └── One more note 3ec759b92751807e925eeb5a16d0b904.md
+│   │   │   │   ├── Active Directory Terminologies 3ea759b927518011a2d3eb0613ba283d.md
+│   │   │   │   ├── Kerberos, DNS, LDAP, MSRPC
+│   │   │   │   │   ├── image.png
+│   │   │   │   │   └── One More Note 3ec759b9275180359ee5ccb1f3a9c28d.md
+│   │   │   │   ├── Kerberos, DNS, LDAP, MSRPC 3ec759b927518078b90ff21dc05ee273.md
+│   │   │   │   ├── NTLM Authentication - Read this 3ec759b927518056829cc6104c06a5d5.md
+│   │   │   │   └── Why Active Directory 3ea759b927518044b560c9d0f21a9ea7.md
+│   │   │   ├── Introduction to Active Directory 3ea759b9275180969c66d91e645ae286.md
+│   │   │   ├── Windows Fundamentals
+│   │   │   │   ├── Desktop Experience vs Server Core 3e4759b9275180bda448dc3bcace0b09.md
+│   │   │   │   ├── File System 3b6759b927518063bc29fd3d3b421fe5.md
+│   │   │   │   ├── Interacting with the Windows Operating System 3bb759b927518000b058dda8f279fb4e.md
+│   │   │   │   ├── Introduction to Windows 3b6759b92751804e9c6ad0d2931cfb02.md
+│   │   │   │   ├── Microsoft Management Console 3e4759b927518061bfbfebd7dc4ffc45.md
+│   │   │   │   ├── NTFS vs Share Permissions 3b6759b9275180bb94fcc2a5992c867f.md
+│   │   │   │   ├── Operating System Structure 3b6759b927518049a488cb978597258f.md
+│   │   │   │   ├── Service Permissions 3b9759b92751801e8323fbaa54220d11.md
+│   │   │   │   ├── Windows Management Instrumentation (WMI) 3c5759b9275180e2956bfca443817f09.md
+│   │   │   │   ├── Windows Registry 3bf759b9275180949c22c95bc136114c.md
+│   │   │   │   ├── Windows Security 3e4759b92751804b88b5fec01d876faf.md
+│   │   │   │   ├── Windows Services & Processes 3b7759b9275180b3bf11f63354eb42f5.md
+│   │   │   │   └── Windows Sessions 3bb759b9275180e48b40ed3c8ef88079.md
+│   │   │   └── Windows Fundamentals 3b6759b927518003acced91cc32cfcb4.md
+│   │   ├── HTB Modules 3b6759b92751803eb86bd84d27f905bd.md
+│   │   ├── Local Privilege Escaltion
+│   │   │   ├── Privilege Esc Passwordless Sudo Misconfiguration 38c759b9275180e4b390eb19b11f1e33.md
+│   │   │   ├── Privilege Esc using Facter 38c759b92751803e9afbf61daee57b56.md
+│   │   │   ├── Privilege Esc via cap_setuid Capability on Python  38c759b927518057bc0fe36f8f7c27d6.md
+│   │   │   ├── Privilege Esc via Docker Group Membership 38c759b9275180ffa1f3ef0248b5385b.md
+│   │   │   ├── Privilege Esc via Exposed Backup SSH Key 38c759b9275180de82eef69333688e04.md
+│   │   │   ├── Privilege Esc via Insecure debug interface [ Expos 38c759b92751804bbe13da5d3b645103.md
+│   │   │   ├── Privilege Esc via Sudo Misconfiguration (Vim Abuse 38c759b927518043a716fa9ec665cb10.md
+│   │   │   ├── Privilege Esc via Sudo Misconfiguration and Writab 38c759b927518047b08ee8b982037875.md
+│   │   │   ├── Privilege Esc via Sudo Path Traversal via Incomple 38c759b927518018a13ed9644c53c402.md
+│   │   │   ├── Privilege Esc via SUID Python Binary 38c759b92751801fa459c1152c37469b.md
+│   │   │   └── Privilege Esc via Wildcard Injection (Tar Checkpoi 38c759b9275180cca89fd0278c978593.md
+│   │   ├── Local Privilege Escaltion 37e759b9275180358216e8752eba09b9.md
+│   │   ├── Nmap Study
+│   │   │   ├── methodology 235759b9275180399f4ff10ebc5bee50.md
+│   │   │   ├── Nmap Advanced Port Scans
+│   │   │   │   ├── Fragmented Packets 231759b9275180c4ab5afec14ada623f.md
+│   │   │   │   ├── Idle Zombie Scan 231759b9275180849217d85041ed6042.md
+│   │   │   │   ├── Spoofing and Decoys 231759b9275180cc9746cc4b3a24d833.md
+│   │   │   │   ├── Summary 232759b927518067aef5e40a80581f3d.md
+│   │   │   │   ├── TCP ACK, Window, and Custom Scan 231759b92751807588e8d494547e6582.md
+│   │   │   │   ├── TCP Maimon Scan 231759b927518067b14fcb8e5888702e.md
+│   │   │   │   └── TCP Null Scan, FIN Scan, and Xmas Scan 231759b9275180d0b3a8d30c75c052ec.md
+│   │   │   ├── Nmap Advanced Port Scans 231759b9275180e4a691ff51e0f6b282.md
+│   │   │   ├── Nmap Basic Port Scans
+│   │   │   │   ├── Common Ports for Scanning 231759b9275180fe80d4c582b636fc3c.md
+│   │   │   │   ├── Summary 231759b92751806ba3eac39565a835b0.md
+│   │   │   │   └── Understanding the TCP Header (RFC 793) for Nmap Sc 231759b9275180338ec5f0ee76157163.md
+│   │   │   ├── Nmap Basic Port Scans 231759b9275180e28722f306451f1646.md
+│   │   │   ├── Nmap Live Host Discovery
+│   │   │   │   ├── Nmap Host discovery using ARP 231759b9275180689945f4d4fe1de033.md
+│   │   │   │   ├── Nmap Host Discovery using ICMP 231759b9275180d08d9bf1de69a4df10.md
+│   │   │   │   └── Nmap Host Discovery Using TCP and UDP 231759b9275180e3a97bd49efe759c7b.md
+│   │   │   ├── Nmap Live Host Discovery 231759b9275180398ad5de89176f9539.md
+│   │   │   ├── Nmap Post Port Scans
+│   │   │   │   ├── OS Detection and Traceroute 232759b9275180ce999ed7ed720eb40e.md
+│   │   │   │   └── Service Detection 232759b92751803c8044cfae95dc965c.md
+│   │   │   └── Nmap Post Port Scans 232759b927518097bdedc49f0b1d68eb.md
+│   │   ├── Nmap Study 231759b92751809b8a60e75176cd7ebe.md
+│   │   ├── Offsec PG Play
+│   │   │   ├── Offsec PG Play
+│   │   │   │   ├── Blogger
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   ├── image 4.png
+│   │   │   │   │   ├── image 5.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Blogger 387759b9275180e2bd15cacb06b5d411.md
+│   │   │   │   ├── DC-9
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 10.png
+│   │   │   │   │   ├── image 11.png
+│   │   │   │   │   ├── image 12.png
+│   │   │   │   │   ├── image 13.png
+│   │   │   │   │   ├── image 14.png
+│   │   │   │   │   ├── image 15.png
+│   │   │   │   │   ├── image 16.png
+│   │   │   │   │   ├── image 17.png
+│   │   │   │   │   ├── image 18.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   ├── image 4.png
+│   │   │   │   │   ├── image 5.png
+│   │   │   │   │   ├── image 6.png
+│   │   │   │   │   ├── image 7.png
+│   │   │   │   │   ├── image 8.png
+│   │   │   │   │   ├── image 9.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── DC-9 3c8759b9275180fe9957d07f3a08ef2c.md
+│   │   │   │   ├── Election1
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Election1 39c759b9275180f9ab79d745abf10e92.md
+│   │   │   │   ├── Funbox
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Funbox 3e4759b92751806f884ec3f08272f3bf.md
+│   │   │   │   ├── Gaara 38c759b9275180dcbe88d78ea233a5ac.md
+│   │   │   │   ├── InsanityHosting
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── InsanityHosting 39d759b92751807784a4ca297d3e9acb.md
+│   │   │   │   ├── Katana
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   ├── image 4.png
+│   │   │   │   │   ├── image 5.png
+│   │   │   │   │   ├── image 6.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Katana 389759b927518030b6b1fa5a7babdb9d.md
+│   │   │   │   ├── Potato
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   ├── image 4.png
+│   │   │   │   │   ├── image 5.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Potato 389759b9275180f4933ef6fc0e69bb35.md
+│   │   │   │   ├── So Simple
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── So Simple 3c1759b9275180a3b1c3e17160b19c62.md
+│   │   │   │   ├── Stapler 398759b92751800f8c1ae7b6b930903f.md
+│   │   │   │   ├── Tre
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   └── image.png
+│   │   │   │   └── Tre 3c2759b9275180089bbef8ab2a5195aa.md
+│   │   │   ├── Offsec PG Play 387759b927518073a823ce18d3585b89_all.csv
+│   │   │   └── Offsec PG Play 387759b927518073a823ce18d3585b89.csv
+│   │   ├── Offsec PG Play 387759b9275180efac6cc5509f8968b5.md
+│   │   ├── PortSwigger Academy Labs
+│   │   │   ├── PortSwigger Academy
+│   │   │   │   ├── DOM XSS in AngularJS expression with angle bracket
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── DOM XSS in AngularJS expression with angle bracket 398759b927518054b702e025175c74fc.md
+│   │   │   │   ├── Lab DOM XSS in document write sink using source lo
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab DOM XSS in document write sink using source lo 340759b92751800a9eb6f8414ca17c01.md
+│   │   │   │   ├── Lab DOM XSS in document write sink using source lo 3987-e96a
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   ├── image 4.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab DOM XSS in document write sink using source lo 398759b9275180c484d4d45f0e33e96a.md
+│   │   │   │   ├── Lab DOM XSS in innerHTML sink using source locatio
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   ├── image 4.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab DOM XSS in innerHTML sink using source locatio 340759b92751808d9205c7742e9bb32f.md
+│   │   │   │   ├── Lab DOM XSS in jQuery anchor href attribute sink u
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab DOM XSS in jQuery anchor href attribute sink u 381759b9275180628cffef2cb5bd56f7.md
+│   │   │   │   ├── Lab DOM XSS in jQuery selector sink using a hashch 381759b9275180f2a613c5328a45ea35.md
+│   │   │   │   ├── Lab DOM-based open redirection
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   ├── image 4.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab DOM-based open redirection 370759b927518041b80bcbed1544fb3a.md
+│   │   │   │   ├── Lab Exploiting cross-site scripting to capture pas 3d6759b927518085a81dfeb9d4f7febb.md
+│   │   │   │   ├── Lab Exploiting cross-site scripting to steal cooki
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   ├── image 4.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab Exploiting cross-site scripting to steal cooki 3d6759b927518074a714f25208a3ead8.md
+│   │   │   │   ├── Lab File path traversal, simple case 380759b9275180a98a5dc0813be95185.md
+│   │   │   │   ├── Lab Reflected DOM XSS
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   ├── image 4.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab Reflected DOM XSS 398759b92751801099b7f6d81333313c.md
+│   │   │   │   ├── Lab Reflected XSS into a JavaScript string with an
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab Reflected XSS into a JavaScript string with an 398759b9275180b68790ca2425bdaa33.md
+│   │   │   │   ├── Lab Reflected XSS into attribute with angle bracke
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab Reflected XSS into attribute with angle bracke 398759b9275180ac8377cb9ad0de433b.md
+│   │   │   │   ├── Lab Reflected XSS into HTML context with all tags 
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   ├── image 4.png
+│   │   │   │   │   ├── image 5.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab Reflected XSS into HTML context with all tags  3d6759b927518096abd6d7f957f08ffc.md
+│   │   │   │   ├── Lab Reflected XSS into HTML context with most tags
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   ├── image 4.png
+│   │   │   │   │   ├── image 5.png
+│   │   │   │   │   ├── image 6.png
+│   │   │   │   │   ├── image 7.png
+│   │   │   │   │   ├── image 8.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab Reflected XSS into HTML context with most tags 398759b9275180359b89e09b3d1e3871.md
+│   │   │   │   ├── Lab Reflected XSS into HTML context with nothing e
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab Reflected XSS into HTML context with nothing e 340759b92751804d9358f35fb4054d32.md
+│   │   │   │   ├── Lab Reflected XSS with some SVG markup allowed
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   ├── image 4.png
+│   │   │   │   │   ├── image 5.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab Reflected XSS with some SVG markup allowed 3d6759b927518010aa11d78b8b281b93.md
+│   │   │   │   ├── Lab SQL injection vulnerability allowing login byp
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab SQL injection vulnerability allowing login byp 380759b9275180fe9c1bdeeccbf84a25.md
+│   │   │   │   ├── Lab SQL injection vulnerability in WHERE clause al
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab SQL injection vulnerability in WHERE clause al 370759b92751809eae5dfa443a1649e1.md
+│   │   │   │   ├── Lab Stored DOM XSS
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab Stored DOM XSS 398759b92751805bb013fec96d792b6b.md
+│   │   │   │   ├── Lab Stored XSS into anchor href attribute with dou
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab Stored XSS into anchor href attribute with dou 398759b927518089a9c3ec2daeb7314b.md
+│   │   │   │   ├── Lab Stored XSS into HTML context with nothing enco
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   └── image.png
+│   │   │   │   └── Lab Stored XSS into HTML context with nothing enco 340759b9275180ba97a4ce57ed129951.md
+│   │   │   ├── PortSwigger Academy 340759b9275180119d45f79700dd2d01_all.csv
+│   │   │   └── PortSwigger Academy 340759b9275180119d45f79700dd2d01.csv
+│   │   ├── PortSwigger Academy Labs 340759b9275180499532fb6fd0330b25.md
+│   │   ├── TryHackMe Rooms
+│   │   │   ├── Extract (Hard) Remaining
+│   │   │   │   ├── image 1.png
+│   │   │   │   └── image.png
+│   │   │   ├── Extract (Hard) Remaining 4ac759b9275182aba9c08182d8321f06.md
+│   │   │   ├── TryHackMe
+│   │   │   │   ├── Advance SQL Injection
+│   │   │   │   │   ├── Out of Band SQL Injection 15d759b92751824392568146ffe748bc.md
+│   │   │   │   │   ├── SQL Injection Filter Evasion 183759b9275182a2bc80813d1859c9bc.md
+│   │   │   │   │   └── Types of SQL Injection 08b759b927518363b9510196182ee8d0.md
+│   │   │   │   ├── Advance SQL Injection bf0759b92751827db8f181d5ea3fcd4d.md
+│   │   │   │   ├── Anonymous
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Anonymous 37d759b9275180f39902d035f54a9eeb.md
+│   │   │   │   ├── Corp Website (Done) 09b759b9275183c2b46c01aecb94a8f2.md
+│   │   │   │   ├── CyberHeroes
+│   │   │   │   │   └── Screenshot_2026-04-06_at_11.31.20_PM.png
+│   │   │   │   ├── CyberHeroes a70759b9275182138df901516f2cb9a2.md
+│   │   │   │   ├── Daily Bugle
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Daily Bugle 190759b9275183b3a7fb8179ac227916.md
+│   │   │   │   ├── Debug
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Debug 398759b9275180ec99a1d644572d012b.md
+│   │   │   │   ├── Hammer
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 10.png
+│   │   │   │   │   ├── image 11.png
+│   │   │   │   │   ├── image 12.png
+│   │   │   │   │   ├── image 13.png
+│   │   │   │   │   ├── image 14.png
+│   │   │   │   │   ├── image 15.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   ├── image 4.png
+│   │   │   │   │   ├── image 5.png
+│   │   │   │   │   ├── image 6.png
+│   │   │   │   │   ├── image 7.png
+│   │   │   │   │   ├── image 8.png
+│   │   │   │   │   ├── image 9.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Hammer f3e759b9275182f19514018ded49e9b2.md
+│   │   │   │   ├── Ignite
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Ignite 8e4759b9275183699b7a81e9a9393615.md
+│   │   │   │   ├── Include
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   ├── image 4.png
+│   │   │   │   │   ├── image 5.png
+│   │   │   │   │   ├── image 6.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Include 195759b92751829ba9c3816c14c82b9b.md
+│   │   │   │   ├── Lazy Admin
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   ├── image 4.png
+│   │   │   │   │   ├── image 5.png
+│   │   │   │   │   ├── image 6.png
+│   │   │   │   │   ├── image.png
+│   │   │   │   │   └── msrdc_h687C0zvAF.png
+│   │   │   │   ├── Lazy Admin fbf759b927518226ac9c0146b914e308.md
+│   │   │   │   ├── Linux Privilege Escalation
+│   │   │   │   │   ├── Network Enumeration d74759b927518227956e01dff3c584c9.md
+│   │   │   │   │   ├── System Enumeration dc7759b927518300ae0b01ee7057eea6.md
+│   │   │   │   │   └── User Enumeration f6b759b9275182d5a09681323116499a.md
+│   │   │   │   ├── Linux Privilege Escalation 8ae759b927518382b78581ce209a7dae.md
+│   │   │   │   ├── Oh My WebServer
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Oh My WebServer 80c759b9275183d9a94a019cd7ec61d6.md
+│   │   │   │   ├── Pickle Rick
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   ├── image 4.png
+│   │   │   │   │   ├── image 5.png
+│   │   │   │   │   ├── image 6.png
+│   │   │   │   │   ├── image 7.png
+│   │   │   │   │   ├── image 8.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Pickle Rick aa2759b927518393b627815fc40acb38.md
+│   │   │   │   ├── Rabbit Store
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   ├── image 4.png
+│   │   │   │   │   ├── image 5.png
+│   │   │   │   │   ├── image 6.png
+│   │   │   │   │   ├── image 7.png
+│   │   │   │   │   ├── image 8.png
+│   │   │   │   │   ├── image.png
+│   │   │   │   │   ├── Screenshot_2026-05-17_at_16-07-50.png
+│   │   │   │   │   ├── Screenshot_2026-05-17_at_16-08-54.png
+│   │   │   │   │   ├── Screenshot_2026-05-17_at_16-10-38.png
+│   │   │   │   │   ├── Screenshot_2026-05-17_at_16-13-15.png
+│   │   │   │   │   ├── Screenshot_2026-05-17_at_16-15-13.png
+│   │   │   │   │   └── Screenshot_2026-05-17_at_16-37-14.png
+│   │   │   │   ├── Rabbit Store 32b759b927518283ba87812650c376b5.md
+│   │   │   │   ├── RootMe
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── RootMe 99f759b927518213a9fe813c8cb07489.md
+│   │   │   │   ├── Simple CTF
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Simple CTF 4bc759b92751827cbd01011b8270d822.md
+│   │   │   │   ├── Skynet
+│   │   │   │   │   ├── Screenshot_2026-06-03_at_20-37-10.png
+│   │   │   │   │   ├── Screenshot_2026-06-03_at_20-42-18.png
+│   │   │   │   │   ├── Screenshot_2026-06-03_at_20-42-51.png
+│   │   │   │   │   ├── Screenshot_2026-06-03_at_21-00-30.png
+│   │   │   │   │   ├── Screenshot_2026-06-03_at_21-02-22.png
+│   │   │   │   │   ├── Screenshot_2026-06-03_at_21-29-38.png
+│   │   │   │   │   ├── Screenshot_2026-06-03_at_21-33-38.png
+│   │   │   │   │   ├── Screenshot_2026-06-03_at_21-37-57.png
+│   │   │   │   │   └── Screenshot_2026-06-03_at_21-40-06.png
+│   │   │   │   ├── Skynet 374759b927518016990ec54893737a5c.md
+│   │   │   │   ├── TryHack3M Burg3r Bytes
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   ├── image 4.png
+│   │   │   │   │   ├── image 5.png
+│   │   │   │   │   ├── image 6.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── TryHack3M Burg3r Bytes 838759b92751822fa9fb813e4ee5b63d.md
+│   │   │   │   ├── U A High School
+│   │   │   │   │   ├── Screenshot_2026-06-04_at_21-14-41.png
+│   │   │   │   │   ├── Screenshot_2026-06-04_at_21-15-43.png
+│   │   │   │   │   └── Screenshot_2026-06-04_at_21-19-59.png
+│   │   │   │   ├── U A High School 6f1759b9275182b9868981ff5ef42ef2.md
+│   │   │   │   ├── UltraTech (Done)
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── UltraTech (Done) be7759b92751836e8d058187c351d511.md
+│   │   │   │   ├── Watcher
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 10.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   ├── image 4.png
+│   │   │   │   │   ├── image 5.png
+│   │   │   │   │   ├── image 6.png
+│   │   │   │   │   ├── image 7.png
+│   │   │   │   │   ├── image 8.png
+│   │   │   │   │   ├── image 9.png
+│   │   │   │   │   └── image.png
+│   │   │   │   └── Watcher 0f3759b927518330aad001a023f4de87.md
+│   │   │   ├── TryHackMe 951759b9275182c2ac690111f52e1260_all.csv
+│   │   │   ├── TryHackMe 951759b9275182c2ac690111f52e1260.csv
+│   │   │   └── Voyage fc6759b92751830e98dc0119bf7409d5.md
+│   │   ├── TryHackMe Rooms 8e4759b9275183f2b886018fe443ddcb.md
+│   │   ├── Vulnerabilities
+│   │   │   ├── Access Control Vulnerabilities
+│   │   │   │   ├── Lab IDOR
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab IDOR 622759b927518221bdbb01262c25c76d.md
+│   │   │   │   ├── Lab Method-based access control can be circumvente
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab Method-based access control can be circumvente 161759b9275183b78d6801fb6ca682d3.md
+│   │   │   │   ├── Lab Multi-step process with no access control on o 9ae759b927518224b4a6016414c184a1.md
+│   │   │   │   ├── Lab Referer-based access control 96e759b9275183769c9b814af128716d.md
+│   │   │   │   ├── Lab Unprotected admin functionality
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab Unprotected admin functionality 2d5759b927518374ac9781de5e80403f.md
+│   │   │   │   ├── Lab Unprotected admin functionality with unpredict
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab Unprotected admin functionality with unpredict 829759b92751838aad1f019fdfcfd6a8.md
+│   │   │   │   ├── Lab URL-based access control can be circumvented
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   ├── image 4.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab URL-based access control can be circumvented 180759b92751823886ff812822fc4b0d.md
+│   │   │   │   ├── Lab User ID controlled by request parameter
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab User ID controlled by request parameter ff8759b927518279b5fc8139d81c2224.md
+│   │   │   │   ├── Lab User ID controlled by request parameter with d
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab User ID controlled by request parameter with d 8ba759b92751822387ea8117f89cdc5e.md
+│   │   │   │   ├── Lab User ID controlled by request parameter with p
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   ├── image 4.png
+│   │   │   │   │   ├── image 5.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab User ID controlled by request parameter with p da6759b9275183519c2281836eed90ed.md
+│   │   │   │   ├── Lab User ID controlled by request parameter, with 
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab User ID controlled by request parameter, with  926759b9275182c4b56281a897ae4e0d.md
+│   │   │   │   ├── Lab User role can be modified in user profile
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab User role can be modified in user profile 8d8759b92751834984f80112396d2d7e.md
+│   │   │   │   ├── Lab User role controlled by request parameter
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   ├── image 4.png
+│   │   │   │   │   └── image.png
+│   │   │   │   └── Lab User role controlled by request parameter 522759b92751831b841b815e614b41d0.md
+│   │   │   ├── Access Control Vulnerabilities e70759b9275182ba8f57818a1426f190.md
+│   │   │   ├── Authentication Vulnerabilities
+│   │   │   │   ├── Lab Username enumeration via response timing c99759b92751823b804a01455b9e4c9c.md
+│   │   │   │   ├── Lab Username enumeration via subtly different resp
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab Username enumeration via subtly different resp 160759b9275182ee97040180f63e5f70.md
+│   │   │   │   ├── Username enumeration via different responses
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Username enumeration via different responses f98759b927518386b22a8150833aeb76.md
+│   │   │   │   ├── Vulnerabilities in password-based login 7c4759b927518395a29b018192baa5de.md
+│   │   │   │   └── What is Authentication de5759b9275183e482690160031c3f0d.md
+│   │   │   ├── Authentication Vulnerabilities ad6759b92751821784308192b6c232fb.md
+│   │   │   ├── Business Logic Vulnerabilities
+│   │   │   │   ├── Lab 2FA broken logic (Incomplete)
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab 2FA broken logic (Incomplete) 12f759b92751839db78d01f2825474d1.md
+│   │   │   │   ├── Lab Excessive trust in client-side controls
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   ├── image 4.png
+│   │   │   │   │   ├── image 5.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab Excessive trust in client-side controls 99d759b927518314868881e4d0c2d32f.md
+│   │   │   │   ├── Lab High-level logic vulnerability
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   ├── image 4.png
+│   │   │   │   │   ├── image 5.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab High-level logic vulnerability 644759b92751835bad6d0160e727bf2f.md
+│   │   │   │   ├── Lab Low-level logic flaw
+│   │   │   │   │   └── image.png
+│   │   │   │   └── Lab Low-level logic flaw 7dd759b927518304a87081fa1a13ceaa.md
+│   │   │   ├── Business Logic Vulnerabilities e77759b9275182b99a6e81cdd7349fca.md
+│   │   │   ├── Command Injection
+│   │   │   │   ├── Blind OS command injection with out-of-band data e
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Blind OS command injection with out-of-band data e 169759b9275183c682170120a099d3f9.md
+│   │   │   │   ├── Blind OS command injection with time delays
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Blind OS command injection with time delays 814759b92751821987f6012d86e9c821.md
+│   │   │   │   ├── Detecting Blind Command Injection 9c6759b927518393853381db3f8d8f73.md
+│   │   │   │   ├── Exploiting blind OS command injection using out-of a45759b9275182b2b4f081daad6713a3.md
+│   │   │   │   ├── Lab Blind OS command injection with out-of-band in
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab Blind OS command injection with out-of-band in 01f759b927518201bbf3019c28fdc12d.md
+│   │   │   │   ├── Lab Blind OS command injection with output redirec
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab Blind OS command injection with output redirec f56759b9275182dc8b508110fa55433b.md
+│   │   │   │   ├── OS Command Injection Notes 661759b9275183118358017f140d98f1.md
+│   │   │   │   ├── OS Command Injection Simple Case
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   ├── image 4.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── OS Command Injection Simple Case 44d759b927518330ab2b81934489d9d2.md
+│   │   │   │   └── Redirecting Output to a File 543759b9275182e3af00016c07e44203.md
+│   │   │   ├── Command Injection 080759b9275182b390a401b3dbb979e7.md
+│   │   │   ├── CORS - Cross Origin Resource Sharing
+│   │   │   │   ├── CORS notes 7cf759b927518319a905013e2fc3067f.md
+│   │   │   │   ├── CORS Prevention d52759b9275182da82da0144d9462bf3.md
+│   │   │   │   ├── CORS vs CSRF b8a759b9275182229bf001edff59bc22.md
+│   │   │   │   ├── Lab CORS vulnerability with basic origin reflectio
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   ├── image 4.png
+│   │   │   │   │   ├── image 5.png
+│   │   │   │   │   ├── image 6.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab CORS vulnerability with basic origin reflectio 789759b92751832b8f048197756619dd.md
+│   │   │   │   ├── Lab CORS vulnerability with trusted insecure proto 322759b927518251b82c81c6dc50332b.md
+│   │   │   │   ├── Lab CORS vulnerability with trusted null origin
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   ├── image 4.png
+│   │   │   │   │   ├── image 5.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab CORS vulnerability with trusted null origin 8e6759b927518275951501425c23aeca.md
+│   │   │   │   └── SOP vs CSRF 70b759b927518331bc370155624b6810.md
+│   │   │   ├── CORS - Cross Origin Resource Sharing 63a759b9275182499525815d877a87df.md
+│   │   │   ├── Cross Site Scripting
+│   │   │   │   ├── Lab DOM XSS in AngularJS expression with angle bra
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab DOM XSS in AngularJS expression with angle bra 570759b9275182b5bb50810e893c8822.md
+│   │   │   │   ├── Lab DOM XSS in document write sink using source lo
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab DOM XSS in document write sink using source lo e72759b92751822c8a7d018a798a8f4a.md
+│   │   │   │   ├── Lab DOM XSS in innerHTML sink using source locatio
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab DOM XSS in innerHTML sink using source locatio a63759b92751834ebf0a01914f58a563.md
+│   │   │   │   ├── Lab DOM XSS in jQuery anchor href attribute sink u
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab DOM XSS in jQuery anchor href attribute sink u 4d2759b927518211adcb81feef893fb8.md
+│   │   │   │   ├── Lab DOM XSS in jQuery selector sink using a hashch fcc759b92751838a8e4d81d5c977b34c.md
+│   │   │   │   ├── Lab Reflected XSS into a JavaScript string with an
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab Reflected XSS into a JavaScript string with an 72b759b927518244985681a33df05fc2.md
+│   │   │   │   ├── Lab Reflected XSS into attribute with angle bracke
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   ├── image 4.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab Reflected XSS into attribute with angle bracke bc7759b9275182809f1b8141c6533f7c.md
+│   │   │   │   ├── Lab Reflected XSS into HTML context with nothing e
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab Reflected XSS into HTML context with nothing e 30a759b9275183458b3581a9e27ab688.md
+│   │   │   │   ├── Lab Stored XSS into anchor href attribute with dou
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab Stored XSS into anchor href attribute with dou c32759b9275183209b2a8178c1224063.md
+│   │   │   │   ├── Lab Stored XSS into HTML context with nothing enco
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   └── image.png
+│   │   │   │   └── Lab Stored XSS into HTML context with nothing enco cab759b9275183c2864a8199f185d788.md
+│   │   │   ├── Cross Site Scripting d02759b9275182cf9973016b283a3106.md
+│   │   │   ├── CSRF
+│   │   │   │   ├── Bypassing SameSite Lax via GET Requests 454759b927518365b47d017928e00ee1.md
+│   │   │   │   ├── Bypassing SameSite Lax via Newly Issued Cookies cef759b9275183708f8581a90ddaffc9.md
+│   │   │   │   ├── Bypassing SameSite via Sibling Domains b2b759b9275183c987bd012585efb6bb.md
+│   │   │   │   ├── Bypassing SameSite=Strict via On-Site Gadgets a37759b9275183d28e5e01d62cc924c0.md
+│   │   │   │   ├── CSRF Token Bypass “Double Submit Vulnerability 16b759b9275183d8b77301f8faef4782.md
+│   │   │   │   ├── CSRF Token Bypass Request Method Dependency 552759b927518334ada0015b0da05bc3.md
+│   │   │   │   ├── CSRF Token Bypass Session Independence 9ea759b92751821faa3601e41a34569b.md
+│   │   │   │   ├── CSRF Token Bypass Token Bound to Wrong Cookie 0b8759b92751834fa31a81f050174159.md
+│   │   │   │   ├── CSRF Token Bypass Token Presence Dependency 193759b9275182f8be5281ed81ce3be9.md
+│   │   │   │   ├── CSRF where token is tied to non-session cookie
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── CSRF where token is tied to non-session cookie 373759b92751830c977e811c998a93ae.md
+│   │   │   │   ├── Lab CSRF vulnerability with no defenses
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   ├── image 4.png
+│   │   │   │   │   ├── image 5.png
+│   │   │   │   │   ├── image 6.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab CSRF vulnerability with no defenses 144759b9275182b3953001b360a55e37.md
+│   │   │   │   ├── Lab CSRF where token is duplicated in cookie
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab CSRF where token is duplicated in cookie 50f759b927518229bcc08148541abcaa.md
+│   │   │   │   ├── Lab CSRF where token is not tied to user session
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   ├── image 4.png
+│   │   │   │   │   ├── image 5.png
+│   │   │   │   │   ├── image 6.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab CSRF where token is not tied to user session f91759b9275183118bd381a6cf13e097.md
+│   │   │   │   ├── Lab CSRF where token validation depends on request
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   ├── image 4.png
+│   │   │   │   │   ├── image 5.png
+│   │   │   │   │   ├── image 6.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab CSRF where token validation depends on request 4bc759b927518282a87c8128a1c132dc.md
+│   │   │   │   ├── Lab CSRF where token validation depends on token b
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   ├── image 4.png
+│   │   │   │   │   ├── image 5.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab CSRF where token validation depends on token b d78759b9275182ac88f481c082aff51d.md
+│   │   │   │   ├── Lab SameSite Lax bypass via cookie refresh 4f1759b9275182cf98e801d7f6e9773e.md
+│   │   │   │   ├── Lab SameSite Lax bypass via method override
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab SameSite Lax bypass via method override 232759b92751826d9c9f8121fe081bd0.md
+│   │   │   │   ├── Lab SameSite Strict bypass via client-side redirec
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   ├── image 4.png
+│   │   │   │   │   ├── image 5.png
+│   │   │   │   │   ├── image 6.png
+│   │   │   │   │   ├── image 7.png
+│   │   │   │   │   ├── image 8.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab SameSite Strict bypass via client-side redirec 6cd759b927518269aebc01796789f83b.md
+│   │   │   │   ├── Lab SameSite Strict bypass via sibling domain 1db759b9275183399ad101d2f5fd6779.md
+│   │   │   │   ├── SameSite Flag Notes b1c759b9275182e59e4f81f5da4d3fd4.md
+│   │   │   │   └── What is CSRF 611759b9275182538cde015eaf70fdd7.md
+│   │   │   ├── CSRF 95c759b927518312b4428130459ff029.md
+│   │   │   ├── DOM Based Vulnerabilities 370759b9275180ac8540cc4384a74ecb.md
+│   │   │   ├── File Upload
+│   │   │   │   ├── Exploiting file upload race conditions 539759b9275183b0bb3f0176093b3b57.md
+│   │   │   │   ├── Remote code execution via polyglot web shell uploa
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Remote code execution via polyglot web shell uploa e4c759b92751830483ef810fb352cc00.md
+│   │   │   │   ├── Study - Content-Based Validation & Bypasses 5c5759b92751836ca573017467e9ae9a.md
+│   │   │   │   ├── Study - File Execution Prevention & Bypasses 858759b9275182a6a895817632e4a194.md
+│   │   │   │   ├── Study - Flawed File Upload Validation dda759b927518347a39981b6a23ab5a2.md
+│   │   │   │   ├── Study - Insufficient blacklisting of dangerous fil 310759b927518252bf99816d6cbeaa8d.md
+│   │   │   │   ├── Study - Obfuscating file extensions f5f759b92751831b9a2981e7d3ac261e.md
+│   │   │   │   ├── Web shell upload via Content-Type restriction bypa
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Web shell upload via Content-Type restriction bypa 667759b92751832eb826016128dfaa54.md
+│   │   │   │   ├── Web shell upload via extension blacklist bypass
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Web shell upload via extension blacklist bypass 9d3759b927518318928d01a64cea46b4.md
+│   │   │   │   ├── Web shell upload via obfuscated file extension(Nul
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Web shell upload via obfuscated file extension(Nul f3a759b927518224925d01c4ddc84bab.md
+│   │   │   │   ├── Web shell upload via path traversal
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   └── image.png
+│   │   │   │   └── Web shell upload via path traversal ad5759b9275182d19db00136d1f247fe.md
+│   │   │   ├── File Upload e81759b9275183a786df018e152c4505.md
+│   │   │   ├── HTTP Host Header Attacks
+│   │   │   │   ├── HTTP Host Header Attack 74c759b92751826da31c817a7d2aec23.md
+│   │   │   │   ├── HTTP Host Header Attacks Internal Host Discovery & 270759b9275182f79cab81224ef81d08.md
+│   │   │   │   ├── HTTP Host Header Notes 3df759b9275182b8921081e5a06487ce.md
+│   │   │   │   ├── Lab Basic password reset poisoning
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 10.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   ├── image 4.png
+│   │   │   │   │   ├── image 5.png
+│   │   │   │   │   ├── image 6.png
+│   │   │   │   │   ├── image 7.png
+│   │   │   │   │   ├── image 8.png
+│   │   │   │   │   ├── image 9.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab Basic password reset poisoning 88c759b927518253a49201a2dbe2ef0a.md
+│   │   │   │   ├── Lab Host header authentication bypass
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   ├── image 4.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab Host header authentication bypass 531759b927518346a3ac0115a5b60573.md
+│   │   │   │   ├── Lab Host validation bypass via connection state at
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   ├── image 4.png
+│   │   │   │   │   ├── image 5.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab Host validation bypass via connection state at 11f759b9275183dab4dd01c678c506ee.md
+│   │   │   │   ├── Lab Routing-based SSRF
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   ├── image 4.png
+│   │   │   │   │   ├── image 5.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab Routing-based SSRF aa7759b9275183bf987581033ebe2991.md
+│   │   │   │   ├── Lab SSRF via flawed request parsing
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   ├── image 4.png
+│   │   │   │   │   ├── image 5.png
+│   │   │   │   │   ├── image 6.png
+│   │   │   │   │   ├── image 7.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab SSRF via flawed request parsing feb759b927518376b2f70167be896e32.md
+│   │   │   │   └── Testing for HTTP Host Header Vulnerabilities 488759b927518363b5c881443e7274b6.md
+│   │   │   ├── HTTP Host Header Attacks 143759b9275182d7898e81bc24aec946.md
+│   │   │   ├── HTTP Request Smuggling
+│   │   │   │   ├── CL TE vulnerabilities 964759b92751820985de81324e5716ea.md
+│   │   │   │   ├── HTTP Request Smuggling 8e9759b927518355a15801e1718c9fca.md
+│   │   │   │   ├── Lab HTTP request smuggling, basic CL TE vulnerabil
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab HTTP request smuggling, basic CL TE vulnerabil ff9759b92751831caec901f89d3fc7fb.md
+│   │   │   │   ├── Lab HTTP request smuggling, basic TE CL vulnerabil 5c4759b927518250acd901c835e77582.md
+│   │   │   │   └── TE CL Request Smuggling 414759b92751822faa07011790127813.md
+│   │   │   ├── HTTP Request Smuggling 7e0759b9275183d490be01fe27cbf60a.md
+│   │   │   ├── Information disclosure
+│   │   │   │   ├── Information disclosure in version control history
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Information disclosure in version control history ed7759b9275183d190dd816da5ba7139.md
+│   │   │   │   ├── Lab Authentication bypass via information disclosu
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab Authentication bypass via information disclosu 97f759b927518235a68401575208b4c8.md
+│   │   │   │   ├── Lab Information disclosure in error messages
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab Information disclosure in error messages 052759b9275182cfa3368102c7c8295c.md
+│   │   │   │   ├── Lab Information disclosure on debug page
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab Information disclosure on debug page 311759b92751835a9fb301880bb3a168.md
+│   │   │   │   ├── Lab Source code disclosure via backup files
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   └── image.png
+│   │   │   │   └── Lab Source code disclosure via backup files bce759b9275182b0bb3401796f248ec0.md
+│   │   │   ├── Information disclosure acd759b9275183a5b28c81314fac1ce5.md
+│   │   │   ├── Insecure Deserialization
+│   │   │   │   ├── Gadget Chains ceb759b92751828cb323817a817335ba.md
+│   │   │   │   ├── Identifying Insecure Deserialization a12759b9275182818893813e21e2ba08.md
+│   │   │   │   ├── Insecure Deserialization 9b7759b92751831dacd4814830f479c3.md
+│   │   │   │   ├── Lab Arbitrary object injection in PHP
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   ├── image 4.png
+│   │   │   │   │   ├── image 5.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab Arbitrary object injection in PHP 5b1759b92751837b881b012a7537faef.md
+│   │   │   │   ├── Lab Exploiting Java deserialization with Apache Co
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab Exploiting Java deserialization with Apache Co b01759b927518280be3b81024801af52.md
+│   │   │   │   ├── Lab Modifying serialized data types
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   ├── image 4.png
+│   │   │   │   │   ├── image 5.png
+│   │   │   │   │   ├── image 6.png
+│   │   │   │   │   ├── image 7.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab Modifying serialized data types ca8759b9275182c0b440810003d9b0b1.md
+│   │   │   │   ├── Lab Modifying serialized objects
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   ├── image 4.png
+│   │   │   │   │   ├── image 5.png
+│   │   │   │   │   ├── image 6.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab Modifying serialized objects 9b6759b92751834cbc498155693dfd26.md
+│   │   │   │   ├── Lab Using application functionality to exploit ins
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab Using application functionality to exploit ins 747759b92751829dabeb813fc09221c5.md
+│   │   │   │   ├── Magic Methods 563759b92751828faac381ea62e223f0.md
+│   │   │   │   ├── Modifying Serialized DataTypes e22759b92751821da2ed815c8db76a84.md
+│   │   │   │   └── Serialization vs Deserialization 6b0759b9275182eeb1c5810dadbe8f6c.md
+│   │   │   ├── Insecure Deserialization 630759b927518284af9501ec0ceab54a.md
+│   │   │   ├── JWT
+│   │   │   │   ├── Injecting self-signed JWTs via the jku parameter 4ab759b927518223a5fb0123fa4c98f1.md
+│   │   │   │   ├── Injecting self-signed JWTs via the jwk parameter 4cd759b92751831a88be818b73d67a29.md
+│   │   │   │   ├── Injecting self-signed JWTs via the kid parameter 445759b927518306956d01cf85498b1a.md
+│   │   │   │   ├── JWT Header Injection 21a759b92751822e83a381b346a3e854.md
+│   │   │   │   ├── JWT Security Notes 1a2759b92751839d8b2e0147a342600f.md
+│   │   │   │   ├── Lab JWT authentication bypass via flawed signature
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   ├── image 4.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab JWT authentication bypass via flawed signature 87b759b927518236bf5301409139cbd7.md
+│   │   │   │   ├── Lab JWT authentication bypass via jwk header injec
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   ├── image 4.png
+│   │   │   │   │   ├── image 5.png
+│   │   │   │   │   ├── image 6.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab JWT authentication bypass via jwk header injec 262759b927518204855b81f34daaf7f6.md
+│   │   │   │   ├── Lab JWT authentication bypass via kid header path 
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   ├── image 4.png
+│   │   │   │   │   ├── image 5.png
+│   │   │   │   │   ├── image 6.png
+│   │   │   │   │   ├── image 7.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab JWT authentication bypass via kid header path  de3759b92751832fa12201b04074b998.md
+│   │   │   │   ├── Lab JWT authentication bypass via unverified signa
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab JWT authentication bypass via unverified signa 951759b927518294afa98198cb022852.md
+│   │   │   │   ├── Lab JWT authentication bypass via weak signing key
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   ├── image 4.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab JWT authentication bypass via weak signing key 280759b9275183d9892981c2d8636850.md
+│   │   │   │   ├── Untitled
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   ├── image 4.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Untitled 6b8759b9275182c09d2881178112af02.md
+│   │   │   │   └── Weak JWT Secrets cfd759b9275183edbb21012be2d4a46d.md
+│   │   │   ├── JWT 93d759b92751837dad90017eb35d7a68.md
+│   │   │   ├── NoSQL Injection
+│   │   │   │   ├── Data Exfiltration via NoSQL Injection 4ac759b92751838d9a7481ba35c92f7d.md
+│   │   │   │   ├── Lab Detecting NoSQL injection
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab Detecting NoSQL injection 4ac759b92751824397ac819af4d9b60c.md
+│   │   │   │   ├── Lab Exploiting NoSQL injection to extract data 06c759b92751839d9617017f15dc625f.md
+│   │   │   │   ├── Lab Exploiting NoSQL operator injection to bypass 
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab Exploiting NoSQL operator injection to bypass  33b759b92751824eaa4f811f32366034.md
+│   │   │   │   ├── NoSQL Injection – Operator Injection 7bf759b92751825190cb014531248c3a.md
+│   │   │   │   ├── NoSQL Injection – Syntax Injection 88e759b9275183a68d6201907febd38e.md
+│   │   │   │   └── NoSQL Injection notes 256759b927518285a799015bb4a426d0.md
+│   │   │   ├── NoSQL Injection 6cf759b92751825f91a581b5deff9cc3.md
+│   │   │   ├── OAuth Vulnerabilities
+│   │   │   │   ├── A Little about Oauth a22759b927518213891a813ba3bf16e2.md
+│   │   │   │   ├── Lab Authentication bypass via OAuth implicit flow
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab Authentication bypass via OAuth implicit flow 8e8759b927518303b9a6012fb230e113.md
+│   │   │   │   ├── Lab SSRF via OpenID dynamic client registration (I
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab SSRF via OpenID dynamic client registration (I 2cb759b927518337bda201d8a4327b95.md
+│   │   │   │   ├── OAuth Authentication 38a759b92751833d827601cfa3a36316.md
+│   │   │   │   └── OAuth Grant Types bf4759b927518255a6a481f2d8c76b4b.md
+│   │   │   ├── OAuth Vulnerabilities c3d759b927518213a67a81927da75b86.md
+│   │   │   ├── Path Traversal
+│   │   │   │   ├── File path traversal, simple case cb3759b927518374acc701762421f6fb.md
+│   │   │   │   ├── File path traversal, traversal sequences stripped  62a759b9275182168b81812c61c84de2.md
+│   │   │   │   ├── File path traversal, traversal sequences stripped  9f6759b9275183b3b2bf01963060c74b.md
+│   │   │   │   ├── File path traversal, validation of file extension  0e6759b92751820781990104b195f6bb.md
+│   │   │   │   ├── File path traversal, validation of start of path 6ab759b927518202951201d5e7561ef1.md
+│   │   │   │   └── Path Traversal, traversal sequences blocked with a a18759b9275183688e6d0189c49f87b9.md
+│   │   │   ├── Path Traversal 858759b92751833484b18151f8b68fc2.md
+│   │   │   ├── Prototype Pollution
+│   │   │   │   ├── Finding Client Side Prototype-Pollution ff2759b9275182e6bb55018fef6d6a2d.md
+│   │   │   │   ├── JavaScript Objects, Prototypes & Prototype Polluti ea3759b92751825785f30177a727735c.md
+│   │   │   │   ├── Prototype Pollution Gadgets 9f5759b9275183a8adf48152d220b5dd.md
+│   │   │   │   └── Prototype Pollution Sources 3b4759b927518353b87d81f63e4d662a.md
+│   │   │   ├── Prototype Pollution 6c7759b9275183d49f9901941a258bcb.md
+│   │   │   ├── Race Conditions
+│   │   │   │   ├── A little about race conditions 784759b9275183b180070168b7de5714.md
+│   │   │   │   ├── Detecting & Exploiting Limit Overrun Race Conditio b95759b9275183758833013460c774ca.md
+│   │   │   │   ├── Detecting & Exploiting Limit Overrun Race Conditio e23759b927518384811e817208d69533.md
+│   │   │   │   ├── Hidden Multi-Step Sequences in Race Conditions 146759b927518226acdb81a0e584ccd7.md
+│   │   │   │   ├── Lab Bypassing rate limits via race conditions
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   ├── image 4.png
+│   │   │   │   │   ├── image 5.png
+│   │   │   │   │   ├── image 6.png
+│   │   │   │   │   ├── image 7.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab Bypassing rate limits via race conditions 457759b927518247ac98812d8d5b7aab.md
+│   │   │   │   ├── Lab Limit overrun race conditions
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 10.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   ├── image 4.png
+│   │   │   │   │   ├── image 5.png
+│   │   │   │   │   ├── image 6.png
+│   │   │   │   │   ├── image 7.png
+│   │   │   │   │   ├── image 8.png
+│   │   │   │   │   ├── image 9.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab Limit overrun race conditions 014759b9275183299dd501e045f757ad.md
+│   │   │   │   ├── Lab Multi-endpoint race conditions
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   ├── image 4.png
+│   │   │   │   │   ├── image 5.png
+│   │   │   │   │   ├── image 6.png
+│   │   │   │   │   ├── image 7.png
+│   │   │   │   │   ├── image 8.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab Multi-endpoint race conditions 40f759b9275182f99d68019847350334.md
+│   │   │   │   ├── Lab Single-endpoint race conditions
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 10.png
+│   │   │   │   │   ├── image 11.png
+│   │   │   │   │   ├── image 12.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   ├── image 4.png
+│   │   │   │   │   ├── image 5.png
+│   │   │   │   │   ├── image 6.png
+│   │   │   │   │   ├── image 7.png
+│   │   │   │   │   ├── image 8.png
+│   │   │   │   │   ├── image 9.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab Single-endpoint race conditions 22e759b92751836e96bc814313a7a892.md
+│   │   │   │   └── Sending Grouped HTTP Requests 29a759b9275183e8b799010132bfa8c8.md
+│   │   │   ├── Race Conditions 99a759b9275182ff9b7581abdec98388.md
+│   │   │   ├── Server Side Template Injection
+│   │   │   │   ├── Lab Basic server-side template injection
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab Basic server-side template injection (code con
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab Basic server-side template injection (code con 40f759b9275183ee876d81bfe616c8a8.md
+│   │   │   │   ├── Lab Basic server-side template injection 9a3759b92751823cbf0a0160f1b49ff9.md
+│   │   │   │   └── Notes 75a759b9275182aca3c5812b097133cc.md
+│   │   │   ├── Server Side Template Injection d94759b9275182839d558171a7b02501.md
+│   │   │   ├── SQL Injection
+│   │   │   │   ├── Lab SQL injection vulnerability allowing login byp
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab SQL injection vulnerability allowing login byp 345759b9275183bb96c8812cb299ac5a.md
+│   │   │   │   ├── Lab SQL injection vulnerability in WHERE clause al
+│   │   │   │   │   └── image.png
+│   │   │   │   └── Lab SQL injection vulnerability in WHERE clause al 15a759b9275182c68cb201177b90b52d.md
+│   │   │   ├── SQL Injection f84759b9275183a087cf01c417d2ab12.md
+│   │   │   ├── SSRF
+│   │   │   │   ├── Lab Basic SSRF against another back-end system Eas
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   ├── image 4.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab Basic SSRF against another back-end system Eas b09759b9275183adbed5815ccae6c782.md
+│   │   │   │   ├── Lab Basic SSRF against the local server Easy
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   ├── image 4.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab Basic SSRF against the local server Easy 54f759b9275183899452810f77d6298f.md
+│   │   │   │   ├── Lab Blind SSRF with out-of-band detection
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   ├── image 4.png
+│   │   │   │   │   ├── image 5.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab Blind SSRF with out-of-band detection 6d9759b927518201a0ef81ccaa5ab30c.md
+│   │   │   │   ├── Lab SSRF with filter bypass via open redirection v
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   ├── image 4.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab SSRF with filter bypass via open redirection v d0f759b9275183aa844b013864ffc6e1.md
+│   │   │   │   ├── Server-Side Request Forgery (SSRF) - Notes a4a759b9275182f480308143da1ad820.md
+│   │   │   │   ├── SSRF Attacks Against Other Back-End Systems 549759b9275182fcbba18148de288afd.md
+│   │   │   │   ├── SSRF with blacklist-based input filter ea9759b9275182bca74601e86393bd70.md
+│   │   │   │   └── SSRF with Blacklist-Based Input Filters a4a759b9275183e98fb281ae77769f53.md
+│   │   │   ├── SSRF 46a759b927518381895a815938baff5a.md
+│   │   │   ├── XXE - XML External Entity Injection
+│   │   │   │   ├── Detecting blind XXE using out-of-band (OAST) techn 778759b9275182c49b270108d38eda0b.md
+│   │   │   │   ├── Exploiting Blind XXE to Exfiltrate Data Out-of-Ban dbf759b9275182598cf881431662ad2b.md
+│   │   │   │   ├── Exploiting blind XXE to retrieve data via error me 8ae759b9275183169f44817eee716f7c.md
+│   │   │   │   ├── Exploiting XXE to perform SSRF attacks b4e759b92751822387da01adf55530b4.md
+│   │   │   │   ├── Exploiting XXE to retrieve files e85759b9275183f18fb18172ad86fc3d.md
+│   │   │   │   ├── Finding hidden attack surface for XXE injection 37a759b9275182c9ac0b81021930f16c.md
+│   │   │   │   ├── Lab Blind XXE with out-of-band interaction
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   ├── image 4.png
+│   │   │   │   │   ├── image 5.png
+│   │   │   │   │   ├── image 6.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab Blind XXE with out-of-band interaction e32759b92751837683b3811bab8f4930.md
+│   │   │   │   ├── Lab Blind XXE with out-of-band interaction via XML
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   ├── image 4.png
+│   │   │   │   │   ├── image 5.png
+│   │   │   │   │   ├── image 6.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab Blind XXE with out-of-band interaction via XML c29759b92751827b862e01b42cd3f94b.md
+│   │   │   │   ├── Lab Exploiting blind XXE to exfiltrate data using 
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   ├── image 4.png
+│   │   │   │   │   ├── image 5.png
+│   │   │   │   │   ├── image 6.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab Exploiting blind XXE to exfiltrate data using  a66759b9275183c181788161d5aa8f4c.md
+│   │   │   │   ├── Lab Exploiting blind XXE to retrieve data via erro
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   ├── image 4.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab Exploiting blind XXE to retrieve data via erro a14759b9275183388a9981defd377a4a.md
+│   │   │   │   ├── Lab Exploiting XInclude to retrieve files
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab Exploiting XInclude to retrieve files 8ce759b9275182b6a64501634f082f6d.md
+│   │   │   │   ├── Lab Exploiting XXE to perform SSRF attacks
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   ├── image 4.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab Exploiting XXE to perform SSRF attacks 34b759b92751822e9de58102cb01bcd0.md
+│   │   │   │   ├── Lab Exploiting XXE using external entities to retr
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab Exploiting XXE using external entities to retr 315759b9275183e69b958105ffdb84e4.md
+│   │   │   │   ├── Lab Exploiting XXE via image file upload
+│   │   │   │   │   ├── image 1.png
+│   │   │   │   │   ├── image 2.png
+│   │   │   │   │   ├── image 3.png
+│   │   │   │   │   ├── image 4.png
+│   │   │   │   │   └── image.png
+│   │   │   │   ├── Lab Exploiting XXE via image file upload 7d7759b92751826bb8d081bafc0a7d1b.md
+│   │   │   │   ├── XML Parameter Entities for Bypassing Defenses 9dc759b92751827497a48132d6d6b3b5.md
+│   │   │   │   ├── XXE attacks via modified content type 0ff759b92751837dbb2281f53dc7623e.md
+│   │   │   │   └── XXE Notes fe6759b92751821f84d9812c7735ef9c.md
+│   │   │   └── XXE - XML External Entity Injection f31759b92751839a9b568116dd0ba1a6.md
+│   │   ├── Vulnerabilities 394759b9275183dd90c701d8111c6b26.md
+│   │   ├── Windows
+│   │   │   ├── Window Fundamental 1 - TryHackMe 3e3759b9275180af97f3c13c4c244599.md
+│   │   │   ├── Windows Fundamental 2 - TryHackMe 3e3759b92751806db3d4c8fc457e73d5.md
+│   │   │   └── Windows Fundamentals 3 - TryHackMe 3e4759b9275180589fdcd4601cca693a.md
+│   │   └── Windows 3e3759b9275180d4a206d20917c7811a.md
+│   ├── Career 38c759b9275180f2b022ea5896396781_all.csv
+│   ├── Career 38c759b9275180f2b022ea5896396781.csv
+│   ├── Linux Privilege Escaltion
+│   │   ├── Privilege Escalation
+│   │   │   ├── Linux Privilege Escalation
+│   │   │   │   ├── Enumeration 241759b927518007a02aee38df4c1383.md
+│   │   │   │   ├── Privilege Escalition - Cron Jobs 241759b9275180a4a45bd415363065f6.md
+│   │   │   │   ├── Privilege Escaltion - Kernel Exploit 241759b927518043a869d5bbee7431eb.md
+│   │   │   │   ├── Privilege Escaltion - NFS 241759b927518000ab47fbadad5eec35.md
+│   │   │   │   ├── Privilege Escaltion - PATH 241759b927518007811dd217847c7ae4.md
+│   │   │   │   ├── Privilege Escaltion - Sudo 241759b92751808782faf67b35563d97.md
+│   │   │   │   └── Privilege Escaltion - SUID 241759b927518011a03ed1931d8a7193.md
+│   │   │   ├── Linux Privilege Escalation 241759b9275180a8bb4cc368b62d567f.md
+│   │   │   ├── Windows Privilege Escaltion
+│   │   │   │   ├── Harvesting Passwords from Usual Spots 242759b927518020ba58ecc83c9d0119.md
+│   │   │   │   ├── Introduction 242759b927518067b79ef84eb854bc51.md
+│   │   │   │   └── Scheduled Tasks 242759b9275180d5b32aecf0ad55369b.md
+│   │   │   └── Windows Privilege Escaltion 242759b927518050a79afc96689d0615.md
+│   │   └── Privilege Escalation 241759b9275180d29e36c4ca3752a4f4.md
+│   └── Linux Privilege Escaltion 241759b92751806699ccce0bee06bcb0.md
+├── Career 36c759b927518058a7fbdf1bbb746a0d.md
+└── test.txt
+
+227 directories, 1300 files
