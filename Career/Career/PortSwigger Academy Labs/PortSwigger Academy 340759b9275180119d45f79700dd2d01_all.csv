@@ -1,0 +1,23 @@
+﻿Name,Level,Status,Vulnerability
+Lab: Reflected XSS into HTML context with nothing encoded,APPRENTICE,Done,Cross-Site Scripting
+Lab: Stored XSS into HTML context with nothing encoded,APPRENTICE,Done,Cross-Site Scripting
+Lab: DOM XSS in document.write sink using source location.search,APPRENTICE,Done,Cross-Site Scripting
+Lab: DOM XSS in innerHTML sink using source location.search,APPRENTICE,Done,Cross-Site Scripting
+Lab: DOM-based open redirection,PRACTITIONER,Not started,Open redirection
+Lab: SQL injection vulnerability in WHERE clause allowing retrieval of hidden data,APPRENTICE,Done,SQL Injection
+Lab: SQL injection vulnerability allowing login bypass,PRACTITIONER,Done,SQL Injection
+"Lab: File path traversal, simple case",APPRENTICE,Done,Path Traversal
+Lab: DOM XSS in jQuery anchor href attribute sink using location.search source,APPRENTICE,Done,Cross-Site Scripting
+Lab: DOM XSS in jQuery selector sink using a hashchange event,APPRENTICE,Done,Cross-Site Scripting
+Lab: Reflected DOM XSS,PRACTITIONER,Done,Cross-Site Scripting
+Lab: Reflected XSS into attribute with angle brackets HTML-encoded,APPRENTICE,Done,Cross-Site Scripting
+Lab: Stored XSS into anchor href attribute with double quotes HTML-encoded,APPRENTICE,Done,Cross-Site Scripting
+Lab: Reflected XSS into a JavaScript string with angle brackets HTML encoded,APPRENTICE,Done,Cross-Site Scripting
+Lab: DOM XSS in document.write sink using source location.search inside a select element,PRACTITIONER,Done,Cross-Site Scripting
+DOM XSS in AngularJS expression with angle brackets and double quotes HTML-encoded,PRACTITIONER,Done,Cross-Site Scripting
+Lab: Stored DOM XSS,PRACTITIONER,Done,Cross-Site Scripting
+Lab: Reflected XSS into HTML context with most tags and attributes blocked,PRACTITIONER,Done,Cross-Site Scripting
+Lab: Reflected XSS into HTML context with all tags blocked except custom ones,PRACTITIONER,Done,Cross-Site Scripting
+Lab: Reflected XSS with some SVG markup allowed,PRACTITIONER,Done,Cross-Site Scripting
+Lab: Exploiting cross-site scripting to steal cookies,PRACTITIONER,Done,Cross-Site Scripting
+Lab: Exploiting cross-site scripting to capture passwords,PRACTITIONER,Not started,Cross-Site Scripting

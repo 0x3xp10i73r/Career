@@ -1,0 +1,1 @@
+# Lab: HTTP request smuggling, basic TE.CL vulnerability

@@ -1,0 +1,15 @@
+﻿Name,Completion Status,Date,Difficulty Level,Difficulty Level - For Me,Tags,URL
+Cap,Done,,Easy,Easy,"Linux, Web",https://app.hackthebox.com/machines/Cap
+CCTV,In progress,,Easy,,Web,https://app.hackthebox.com/machines/CCTV
+Facts,Done,"May 2, 2026",Easy,,"AWS, Linux, Web",https://app.hackthebox.com/machines/Facts?sort_by=created_at&sort_type=desc
+Kobold,In progress,"May 2, 2026",Easy,,"Linux, Web",https://app.hackthebox.com/machines/Kobold
+WingData,Done,"May 8, 2026",Easy,Medium,Linux,https://app.hackthebox.com/machines/WingData?sort_by=created_at&sort_type=desc
+Interceptor,In progress,"May 21, 2026",Medium,,Linux,
+Reactor,Done,"May 26, 2026",Easy,Medium,Linux,https://app.hackthebox.com/machines/Reactor?sort_by=created_at&sort_type=desc
+SmartHire,In progress,"May 28, 2026",Easy,,Linux,
+Two Million,In progress,"June 7, 2026",Easy,,"API, Linux",https://app.hackthebox.com/machines/TwoMillion?sort_by=created_at&sort_type=desc
+"Connected ",Done,"June 8, 2026",Easy,Medium,Linux,https://app.hackthebox.com/machines/Connected?sort_by=created_at&sort_type=desc
+DevHub,In progress,"June 14, 2026",Easy,,Linux,DevHub
+"Enigma ",In progress,"June 28, 2026",Easy,,"Linux, Web",
+Paperwork,In progress,"July 12, 2026",Easy,,"Linux, Web",
+Cohort,In progress,"August 8, 2026",Easy,,Linux,https://app.hackthebox.com/machines/Cohort?sort_by=created_at&sort_type=desc

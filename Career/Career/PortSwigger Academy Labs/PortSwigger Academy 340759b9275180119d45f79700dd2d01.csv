@@ -1,0 +1,19 @@
+﻿Name,Vulnerability,Level,Status
+Lab: Reflected XSS into HTML context with nothing encoded,Cross-Site Scripting,APPRENTICE,Done
+Lab: Stored XSS into HTML context with nothing encoded,Cross-Site Scripting,APPRENTICE,Done
+Lab: DOM XSS in document.write sink using source location.search,Cross-Site Scripting,APPRENTICE,Done
+Lab: DOM XSS in innerHTML sink using source location.search,Cross-Site Scripting,APPRENTICE,Done
+Lab: DOM XSS in jQuery anchor href attribute sink using location.search source,Cross-Site Scripting,APPRENTICE,Done
+Lab: DOM XSS in jQuery selector sink using a hashchange event,Cross-Site Scripting,APPRENTICE,Done
+Lab: Reflected XSS into attribute with angle brackets HTML-encoded,Cross-Site Scripting,APPRENTICE,Done
+Lab: Stored XSS into anchor href attribute with double quotes HTML-encoded,Cross-Site Scripting,APPRENTICE,Done
+Lab: Reflected XSS into a JavaScript string with angle brackets HTML encoded,Cross-Site Scripting,APPRENTICE,Done
+Lab: DOM XSS in document.write sink using source location.search inside a select element,Cross-Site Scripting,PRACTITIONER,Done
+DOM XSS in AngularJS expression with angle brackets and double quotes HTML-encoded,Cross-Site Scripting,PRACTITIONER,Done
+Lab: Reflected DOM XSS,Cross-Site Scripting,PRACTITIONER,Done
+Lab: Stored DOM XSS,Cross-Site Scripting,PRACTITIONER,Done
+Lab: Reflected XSS into HTML context with most tags and attributes blocked,Cross-Site Scripting,PRACTITIONER,Done
+Lab: Reflected XSS into HTML context with all tags blocked except custom ones,Cross-Site Scripting,PRACTITIONER,Done
+Lab: Reflected XSS with some SVG markup allowed,Cross-Site Scripting,PRACTITIONER,Done
+Lab: Exploiting cross-site scripting to steal cookies,Cross-Site Scripting,PRACTITIONER,Done
+Lab: Exploiting cross-site scripting to capture passwords,Cross-Site Scripting,PRACTITIONER,Not started

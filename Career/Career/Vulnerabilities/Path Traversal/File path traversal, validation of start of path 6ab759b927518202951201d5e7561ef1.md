@@ -1,0 +1,5 @@
+# File path traversal, validation of start of path
+
+1. Use Burp Suite to intercept and modify a request that fetches a product image.
+2. Modify the `filename` parameter, giving it the value:`/var/www/images/../../../etc/passwd`
+3. Observe that the response contains the contents of the `/etc/passwd` file.
